@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/store-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/store-app/static/js/main.a0c39df0.chunk.js",
+    "main.js.map": "/store-app/static/js/main.a0c39df0.chunk.js.map",
+    "runtime-main.js": "/store-app/static/js/runtime-main.f02c9ea1.js",
+    "runtime-main.js.map": "/store-app/static/js/runtime-main.f02c9ea1.js.map",
+    "static/css/2.11829350.chunk.css": "/store-app/static/css/2.11829350.chunk.css",
+    "static/js/2.6586bcfc.chunk.js": "/store-app/static/js/2.6586bcfc.chunk.js",
+    "static/js/2.6586bcfc.chunk.js.map": "/store-app/static/js/2.6586bcfc.chunk.js.map",
+    "index.html": "/store-app/index.html",
+    "precache-manifest.c8a2aea2a278a3b7ed5a26fa7d399018.js": "/store-app/precache-manifest.c8a2aea2a278a3b7ed5a26fa7d399018.js",
+    "service-worker.js": "/store-app/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/store-app/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/store-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6586bcfc.chunk.js.LICENSE.txt": "/store-app/static/js/2.6586bcfc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/store-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f02c9ea1.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.6586bcfc.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a0c39df0.chunk.js"
+  ]
+}
